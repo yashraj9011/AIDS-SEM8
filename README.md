@@ -149,7 +149,7 @@ Also implemented Laboratory Assignments of Computer Laboratory III and Computer 
 
       
 
-#  417523B -   Elective 5 - Big Data Analytics
+#  417531B -   Elective 5 - Big Data Analytics
 
 
 - Introduction to IIOT, History of IIOT, IOT Vs. IIOT, The Various Industrial Revolutions, Role of 
@@ -185,8 +185,7 @@ Characteristics, Design Principles, Advantages and applications of Industry 4.0,
 - Case Study :- Building Hybrid Edge Cloud IIoT Platform 
 
 
-#  417524B -  Elective 6 - Business Intelligence 
-
+#  417532B -  Elective 6 - Business Intelligence 
 
 - Introduction to IR, Major challenges in IR, Features of an IR system, components of an IR model , IR system block diagram, Boolean retrieval, Information versus Data Retrieval, Text categorization , Vector Model , Probabilistic Model 
 
