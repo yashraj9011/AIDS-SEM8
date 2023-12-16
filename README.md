@@ -29,13 +29,13 @@ Courses that I have studied during final year of my engineering offered by the D
 >> --- | --- | ---
 >> 417521  | Computational Intelligence | Prof. Swati Ghadge
 >> 417522  |  Distributed Computing | Prof. Rajashree Ghule
->> 417523B |  Elective 3 - Big Data Analytics | Prof. Pradip Paithane
->> 417524B |  Elective 4 - Business Intelligence | Prof. Komal Jadhav
+>> 417523B |  Elective 5 - Big Data Analytics | Prof. Pradip Paithane
+>> 417524B |  Elective 6 - Business Intelligence | Prof. Komal Jadhav
 >> 417525  | Computer Laboratory I  | Prof.  Swati Ghadge & Prof. Rajashree Ghule
 >> 417526  | Computer Laboratory II | Prof. Pradip Paithane & Prof.  Komal Jadhav
 >> 417527  | Project Stage 1 | Prof. Pradip Paithane
 >> 417528  | MOOC | Prof. Pradip Shendage
->> AC7     | Audit Course 7 : MOOC Learn New Skills | Prof. Pradip Ghorpade
+>> AC7     | Audit Course 8 : MOOC Learn New Skills | Prof. Pradip Ghorpade
 
 ##   Sessions
 >>   Activity | Organization | Domain | Repository
@@ -47,15 +47,15 @@ Courses that I have studied during final year of my engineering offered by the D
 >>   Masterclass | PantechSolutions | Artificial Intelligence | [Link](https://github.com/yashraj9011/30-Days-Masterclass-on-Artificial-Intelligence)
 
 
-I have studied 4 Courses during 7th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
+I have studied 4 Courses during 8th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
-Also implemented Laboratory Assignments of Computer Laboratory I and Computer Laboratory II .
-
-
+Also implemented Laboratory Assignments of Computer Laboratory III and Computer Laboratory IV .
 
 
 
-#  417521 - Machine Learning
+
+
+#  417521 -  Computational Intelligence
 - Introduction: What is Machine Learning, Definitions and Real-life applications, Comparison of 
   Machine learning with traditional programming, ML vs AI vs Data Science.
   Learning Paradigms: Learning Tasks- Descriptive and Predictive Tasks, Supervised, Unsupervised, 
@@ -111,7 +111,7 @@ Also implemented Laboratory Assignments of Computer Laboratory I and Computer La
   Q Learning: Introduction of Q-Learning, Important terms in Q learning, Q table, Q functions, Q 
   learning algorithm.
   
-#  417522 - Data Modeling & Visualization 
+#  417522 - Distributed Computing 
 -  Basic probability: Discrete and continuous random variables, independence, covariance, central limit theorem, 
    Chebyshev inequality, diverse continuous and discrete distributions.
 -  Statistics, Parameter Estimation, and Fitting a Distribution: Descriptive statistics, graphical 
@@ -149,7 +149,7 @@ Also implemented Laboratory Assignments of Computer Laboratory I and Computer La
 
       
 
-#  417523B -  Elective 3 - Industrial Internet of Things
+#  417523B -   Elective 5 - Big Data Analytics
 
 
 - Introduction to IIOT, History of IIOT, IOT Vs. IIOT, The Various Industrial Revolutions, Role of 
@@ -185,7 +185,7 @@ Characteristics, Design Principles, Advantages and applications of Industry 4.0,
 - Case Study :- Building Hybrid Edge Cloud IIoT Platform 
 
 
-#  417524B -  Elective 4 - Information Retrieval 
+#  417524B -  Elective 6 - Business Intelligence 
 
 
 - Introduction to IR, Major challenges in IR, Features of an IR system, components of an IR model , IR system block diagram, Boolean retrieval, Information versus Data Retrieval, Text categorization , Vector Model , Probabilistic Model 
@@ -220,7 +220,7 @@ Recommendation Information Extraction and Integration: Extracting Data from Text
 Collecting and Integrating Specialized Information on the web .
 
 
-These are some keypoints which gives idea of curriculam that I studied in Odd semester! 
+These are some keypoints which gives idea of curriculam that I studied in even semester! 
  
 Cheers !  
 
