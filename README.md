@@ -31,8 +31,8 @@ Courses that I have studied during final year of my engineering offered by the D
 >> 417522  |  Distributed Computing | Prof. Rajashree Ghule
 >> 417523B |  Elective 5 - Big Data Analytics | Prof. Pradip Paithane
 >> 417524B |  Elective 6 - Business Intelligence | Prof. Komal Jadhav
->> 417525  | Computer Laboratory I  | Prof.  Swati Ghadge & Prof. Rajashree Ghule
->> 417526  | Computer Laboratory II | Prof. Pradip Paithane & Prof.  Komal Jadhav
+>> 417525  | Computer Laboratory III  | Prof.  Swati Ghadge & Prof. Rajashree Ghule
+>> 417526  | Computer Laboratory IV | Prof. Pradip Paithane & Prof.  Komal Jadhav
 >> 417527  | Project Stage 1 | Prof. Pradip Paithane
 >> 417528  | MOOC | Prof. Pradip Shendage
 >> AC7     | Audit Course 8 : MOOC Learn New Skills | Prof. Pradip Ghorpade
@@ -44,7 +44,7 @@ Courses that I have studied during final year of my engineering offered by the D
 >>   Masterclass  | Scaler | OOP | [Link](https://github.com/yashraj9011/AIDS-Semester-7/tree/master/Masterclass%20on%20SOLID%20Principles%20Every%20Developer%20Must%20%20Know%20by%20Scaler)
 >>   Skill Training | WNS Global Services | Career Readiness | [Link](https://github.com/yashraj9011/WNS-Cares-Foundation-Session)
 >>   Masterclass | Geekstar | Git & Github | [Link](https://github.com/yashraj9011/Sessions-on-Git-and-Github)
->>   Masterclass | PantechSolutions | Artificial Intelligence | [Link](https://github.com/yashraj9011/30-Days-Masterclass-on-Artificial-Intelligence)
+>>   Masterclass | Pantech Solutions | Artificial Intelligence | [Link](https://github.com/yashraj9011/30-Days-Masterclass-on-Artificial-Intelligence)
 
 
 I have studied 4 Courses during 8th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
