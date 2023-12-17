@@ -42,7 +42,7 @@ Courses that I have studied during final year of my engineering offered by the D
 >>   --- | --- | --- | ---
 >>   Internship | Common Internship Studio | Software Testing | [Link](https://github.com/yashraj9011/Software-Testing-Internship.git)
 >>   Workshop  | Jobaajlearnings | Tableau | [Link](https://github.com/yashraj9011/5-Days-Workshop-on-Tableau.git)
->>   Skill Training | WNS Global Services | Career Readiness | [Link](https://github.com/yashraj9011/WNS-Cares-Foundation-Session)
+>>   Course | EDX | Big Data Analytics | [Link](https://github.com/yashraj9011/AIDS-Semester-8/tree/main/EDX%20Course%20(Big%20Data%20Strategies%20to%20Transform%20Your%20Business))
 >>   Masterclass | Geekstar | Git & Github | [Link](https://github.com/yashraj9011/Sessions-on-Git-and-Github)
 >>   Masterclass | Pantech Solutions | Data Analytics | [Link](https://github.com/yashraj9011/30-Days-Masterclass-on-Data-Analytics.git)
 
