@@ -33,8 +33,7 @@ Courses that I have studied during final year of my engineering offered by the D
 >> 417524B |  Elective 6 - Business Intelligence | Prof. Komal Jadhav
 >> 417525  | Computer Laboratory III  | Prof.  Swati Ghadge & Prof. Rajashree Ghule
 >> 417526  | Computer Laboratory IV | Prof. Pradip Paithane & Prof.  Komal Jadhav
->> 417527  | Project Stage 1 | Prof. Pradip Paithane
->> 417528  | MOOC | Prof. Pradip Shendage
+>> 417535  | Project Stage 2 | Prof. Pradip Paithane
 >> AC7     | Audit Course 8 : MOOC Learn New Skills | Prof. Pradip Ghorpade
 
 ##   Sessions
