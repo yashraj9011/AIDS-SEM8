@@ -56,13 +56,10 @@ Also implemented Laboratory Assignments of Computer Laboratory III and Computer 
 
 
 #  417521 -  Computational Intelligence
-- Introduction: What is Machine Learning, Definitions and Real-life applications, Comparison of 
-  Machine learning with traditional programming, ML vs AI vs Data Science.
-  Learning Paradigms: Learning Tasks- Descriptive and Predictive Tasks, Supervised, Unsupervised, 
-  Semi-supervised and Reinforcement Learnings.
-  Models of Machine learning: Geometric model, Probabilistic Models, Logical Models, Grouping 
-  and grading models, Parametric and non-parametric models.
-  Feature Transformation: Dimensionality reduction techniques- PCA and LDA
+- Introduction to Computational Intelligence, Paradigms of Computational Intelligence, Difference
+  between Artificial Intelligence and Computational Intelligence, Approaches to Computational
+  Intelligence, Synergies of Computational Intelligence Techniques, Applications of Computational
+  Intelligence, Grand Challenges of Computational Intelligence .
 
 - Introduction- Regression, Need of Regression, Difference between Regression and Correlation, 
   Types of Regression: Univariate vs. Multivariate, Linear vs. Nonlinear, Simple Linear vs. Multiple 
