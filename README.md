@@ -44,7 +44,7 @@ Courses that I have studied during final year of my engineering offered by the D
 >>   Course | EDX | Big Data Analytics | [Link](https://github.com/yashraj9011/AIDS-Semester-8/tree/main/EDX%20Course%20(Big%20Data%20Strategies%20to%20Transform%20Your%20Business))
 >>   Course | EDX | Data Science | [Link](https://github.com/yashraj9011/AIDS-Semester-8/tree/main/EDX%20Course%20(Principles%20and%20Computational%20Tools%20for%20Reproducible%20Data%20Science))
 >>   Masterclass | Geekstar | Git & Github | [Link](https://github.com/yashraj9011/Sessions-on-Git-and-Github)
->>   Masterclass | Pantech Solutions | Data Analytics | [Link](https://github.com/yashraj9011/30-Days-Masterclass-on-Data-Analytics.git)
+>>   Beginners Course  | Industry Helping Hands | Power BI | [Link](https://github.com/yashraj9011/30-Days-Masterclass-on-Data-Analytics.git)
 
 
 I have studied 4 Courses during 8th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
