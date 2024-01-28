@@ -59,14 +59,12 @@ Also implemented Laboratory Assignments of Computer Laboratory III and Computer 
   Intelligence, Synergies of Computational Intelligence Techniques, Applications of Computational
   Intelligence, Grand Challenges of Computational Intelligence .
 
-- Introduction- Regression, Need of Regression, Difference between Regression and Correlation, 
-  Types of Regression: Univariate vs. Multivariate, Linear vs. Nonlinear, Simple Linear vs. Multiple 
-  Linear, Bias-Variance tradeoff, Overfitting and Underfitting.
-  Regression Techniques - Polynomial Regression, Stepwise Regression, Decision Tree Regression, 
-  Random Forest Regression, Support Vector Regression, Ridge Regression, Lasso Regression, 
-  ElasticNet Regression, Bayesian Linear Regression.
-  Evaluation Metrics: Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean 
-  Squared Error (RMSE),R-squared ,Adjusted R-squared
+- Introduction to Fuzzy Set- Introduction, definition, membership Function, Fuzzy operator, Fuzzy 
+Set Characteristics, Fuzziness and Probability.
+Fuzzy Logic and Reasoning–Fuzzy Logic: Linguistics Variables and Hedges, Fuzzy Rules.
+Fuzzy Inferencing: neuro inferencing Fuzzification, Defuzzification
+Fuzzy logic Controllers: Fuzzy logic Controllers, Fuzzy logic Controller Types 
+
 
 - Introduction: Need of Classification, Types of Classification (Binary and Multiclass), 
   Binary-vs-Multiclass Classification, Balanced and Imbalanced Classification Problems. 
@@ -147,18 +145,19 @@ Also implemented Laboratory Assignments of Computer Laboratory III and Computer 
 #  417531B -   Elective 5 - Big Data Analytics
 
 
-- Introduction to IIOT, History of IIOT, IOT Vs. IIOT, The Various Industrial Revolutions, Role of 
-Internet of Things (IoT) & Industrial Internet of Things (IIoT) in Industry, Smart Factories, Role of 
-IIOT in Manufacturing Processes, Use of IIOT in plant maintenance practices, Sustainability 
-through Business excellence tools Challenges, Benefits in implementing IIOT, Applications of IIOT
+- Introduction to Big Data: Characteristics – Evolution – Definition - Challenges with Big Data, 
+Traditional Business Intelligence versus Big Data. State of Practice in Analytics, Key roles for New 
+Big Data Ecosystems.
+Big Data Analytics: Introduction & importance of Analytics, Classification of Analytics –
+Challenges - Big Data Analytics, Big Data Technologies (Apache Hadoop, Rapid miner, Looker), 
+Soft state eventual consistency.
 
-
-- Sensors and Actuators used for Industrial Processes, Roles of sensors and actuators in IIOT, IIOT 
-Sensor networks, Process automation and Data Acquisitions on IIoT Platform, WiFi, and LoRa Protocols and IoT Hub 
-systems, Zigbee, Z wave, BLE, SPI , I2C, Industrial automation: 
-PLC and SCADA
-ICS Protocol: Ethernet IP, Modbus TCP/IP, EtherCAT
-
+- Need of Big Data Analytics
+Advanced Analytical Theory and Methods: 
+Clustering- Overview, K means- Use cases, Overview of methods, determining number of clusters, 
+diagnostics, reasons to choose and cautions. 
+Association Rules- Overview, a-priori algorithm, evaluation of candidate rules, case studytransactions in grocery store, validation and testing, diagnostics. 
+Regression- linear, logistics, reasons to choose and cautions, additional regression models.
 
 - IIoT Architecture :-  Overview of IIoT Components sensors , modem , gateway , Routers , Cloud Brokers servers and its integration , WSN Network design for IoT , Business Model and Reference Architecture , IIoT Sensing , Processing , Communication , Networking .
   
@@ -182,11 +181,18 @@ Characteristics, Design Principles, Advantages and applications of Industry 4.0,
 
 #  417532B -  Elective 6 - Business Intelligence 
 
-- Introduction to IR, Major challenges in IR, Features of an IR system, components of an IR model , IR system block diagram, Boolean retrieval, Information versus Data Retrieval, Text categorization , Vector Model , Probabilistic Model 
-
-
-- Components of Index, Index Life Cycle, Static Inverted Index, Dictionaries-Types (Sort Based, Hash Based, Interleaving & Posting Lists), Index Construction (In memory, Sort Based, Merge Based, Disk Based Index Construction), Dynamic Indexing, Query Processing for Ranked Retrieval, Document at a Time Query Processing, Term at a Time Query Processing , Query Optimization .
-
+- Business Intelligence: Definition of Business Intelligence, Brief History of Business Intelligence, 
+Architecture & Components of Business Intelligence, Business Intelligence Scenarios, Future & 
+Goals of Business Intelligence, Data Information & Knowledge, Business Intelligence Tasks & 
+Analysis Formats
+- Decision Support System: Definition of Decision Support System. Information Systems Support 
+for Decision Making, Simon’s Decision Making Process, The Decision Support System-Business 
+Intelligence Connection
+- Models and modelling in BI, Model Presentation, Model Building, Model Assessment and Quality 
+of Models, Modelling using Logical Structures: ontology & Frame, Modelling using graph 
+structure: Business process model and notation (BPMN), Modelling using probabilistic structures, 
+Modelling using analytical structure. Model and Data: data Generation, The Role of time, Data 
+Quality
 - Probabilistic Retrieval: Review of Basic Probability Theory; The Probability Ranking Principle: 
 The 1/0 loss case, the PRP with retrieval costs; An appraisal and some extensions: An appraisal of probabilistic models, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F .
 - Language models for information retrieval: generating queries from documents , Language models: 
