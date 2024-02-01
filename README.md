@@ -30,9 +30,9 @@ Courses that I have studied during final year of my engineering offered by the D
 >> 417521  | Computational Intelligence | Prof. Swati Ghadge
 >> 417522  |  Distributed Computing | Prof. Rajashree Ghule
 >> 417523B |  Elective 5 - Big Data Analytics | Prof. Pradip Paithane
->> 417524B |  Elective 6 - Business Intelligence | Prof. Komal Jadhav
+>> 417524B |  Elective 6 - Business Intelligence | Prof. Komal Gaikwad
 >> 417525  | Computer Laboratory III  | Prof.  Swati Ghadge & Prof. Rajashree Ghule
->> 417526  | Computer Laboratory IV | Prof. Pradip Paithane & Prof.  Komal Jadhav
+>> 417526  | Computer Laboratory IV | Prof. Pradip Paithane & Prof.  Komal Gaikwad
 >> 417535  | Project Stage 2 | Prof. Pradip Paithane
 >> AC7     | Audit Course 8 : MOOC Learn New Skills | Prof. Pradip Ghorpade
 
