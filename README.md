@@ -213,32 +213,36 @@ of Models, Modelling using Logical Structures: ontology & Frame, Modelling using
 structure: Business process model and notation (BPMN), Modelling using probabilistic structures, 
 Modelling using analytical structure. Model and Data: data Generation, The Role of time, Data 
 Quality
-- Probabilistic Retrieval: Review of Basic Probability Theory; The Probability Ranking Principle: 
-The 1/0 loss case, the PRP with retrieval costs; An appraisal and some extensions: An appraisal of probabilistic models, Okapi BM25: a non-binary model, Bayesian network approaches to IR , Field Weights:BM25F .
-- Language models for information retrieval: generating queries from documents , Language models: 
-finite automata and language models , types of language models .
 
+- Data Provisioning: Data warehouse, schemas, Data Quality, Data profiling, Data enrichment, data
+duplication, ETL Architecture and what is ETL, Extraction concept and Change data capture,
+Transformation concept, lookups, time lag, formats, consistency, Loading concept, Initial and
+Incremental loading, late arriving facts, What is Staging, Data marts, Cubes.
+Data Visualization: What Is a Business Report, Components of Business Reporting Systems, Data
+and Information Visualization, Types of Charts and Graphs, Visual Analytics, Performance
+Dashboards, Business Performance Management?
+BI Tools: Tableau, power BI, Dundas BI, Oracle BI,bMs excel
 
-- Text Classification: Introduction to Text Classification, Naiyes Bayes Model, K Nearest neighbor,
-spam filtering, Support Vector Machine Classifier, Vector Space classification using hyperplanes, 
-kernel function.
-- Text Clustering: Clustering vs Classification, partitioning methods. Clustering Algorithms: k-means 
-clustering, Agglomerative hierarchical clustering, Expectation Maximization, Mixture of Gaussians Model
+- Data validation: Incomplete data, Data affected by noise.
+Data transformation: Standardization, Feature extraction.
+Data reduction: Sampling, Feature selection, Principal component analysis, Data discretization.
+Data exploration: 1. Univariate analysis: Graphical analysis of categorical attributes, Graphical
+analysis of numerical attributes, Measures of central tendency for numerical attributes, Measures of
+dispersion for numerical attributes, Identification of outliers for numerical attributes. 2. Bivariate
+analysis: Graphical analysis, Measures of correlation for numerical attributes, Contingency tables
+for categorical attributes, 3. Multivariate analysis: Graphical analysis, Measures of correlation for
+numerical attributes
 
-- Parallel information retrieval: Parallel query processing, Mapreduce 
-- Web Retrieval: Search Engine Architectures, Cluster based Architecture, Distributed Architectures,
-Search Engine Ranking. Link based Ranking, Page Ranking Algorithm, Simple Ranking Functions 
-and Evaluations. 
-- Web Crawler: Web Crawler structure, Web crawler libraries, Python Scrapy, Beautiful Soup, 
-Applications
+- Regression: Regression problems, Evaluation of regression models, Linear regression.
+Classification: Classification problems, Evaluation of classification models, Bayesian methods,
+Logistic regression. Clustering: Clustering methods, Partition methods, Hierarchical methods,
+Evaluation of clustering models. Association Rule: Structure of Association Rule, Apriori Algorithm
 
-
-- Multimedia Information Retrieval: Spoken Language Audio Retrieval, Non-Speech Audio 
-Retrieval, Graph Retrieval, Imagery Retrieval, Video Retrieval
-- Recommender System: Collaborative Filtering, Content Based Recommendation, Knowledge Based 
-Recommendation Information Extraction and Integration: Extracting Data from Text. Semantic Web, 
-Collecting and Integrating Specialized Information on the web .
-
+- BI Applications: Applications of Business Intelligence in Higher Education, Healthcare Monitoring,
+Logistics and Supply Chain Management, Customer Relationship Management, Banking Industry,
+Telecommunication Industry, Manufacturing Industry.
+Emerging Trends and Future Impacts: Location based analytics for organisations, Mobile BI, Web
+2.0 and Online Social Networking, Cloud Computing and BI. Issues related to analytics
 
 These are some keypoints which gives idea of curriculam that I studied in even semester! 
  
