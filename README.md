@@ -91,40 +91,68 @@ View Models, Clonal Selection Theory Model, Network Theory Model, Danger Theory 
 Dendritic cell Model, Applications of AIS models
   
 #  417522 - Distributed Computing 
--  Basic probability: Discrete and continuous random variables, independence, covariance, central limit theorem, 
-   Chebyshev inequality, diverse continuous and discrete distributions.
--  Statistics, Parameter Estimation, and Fitting a Distribution: Descriptive statistics, graphical 
-   statistics, method of moments, maximum likelihood estimation
--  Data Modeling Concepts : Understand and model subtypes and supertypes , Understand and 
-   model hierarchical data , Understand and model recursive relationships , Understand and model historical data
--  Random Numbers and Simulation: Sampling of continuous distributions, Monte Carlo methods, Hypothesis Testing: Type I and II errors, rejection regions; Z-test, T- 
-   test, F-test, Chi-Square test, 
--  Bayesian test : Stochastic Processes and Data Modeling: Markov process, Hidden Markov Models, Poisson 
-   Process, Gaussian Processes, Auto-Regressive and Moving average processes, Bayesian Network, 
-   Regression, Queuing systems.
--  Computational Statistics and Data Visualization, Types of Data Visualization, Presentation and 
-   Exploratory Graphics, Graphics and Computing, Statistical Historiography, Scientific 
-   Design Choices in Data Visualization, Higher-dimensional Displays and Special Structures,
-   Static Graphics: Complete Plots, Customization, Extensibility,
-   Other Issues: 3-D Plots, Speed, Output Formats, Data Handling
--  Data Wrangling: Hierarchical Indexing, Combining and Merging Data Sets Reshaping and 
-   Pivoting. Data Visualization matplotlib: Basics of matplotlib, plotting with pandas and seaborn, 
-   other python visualization tools
-   Data Visualization Through Their Graph Representations: Data and Graphs Graph Layout 
-   Techniques, Force-directed Techniques Multidimensional Scaling, The Pulling Under Constraints 
-   Model, Bipartite Graphs .
 
--  Data Aggregation and Group operations: Group by Mechanics, Data aggregation, General split-apply-combine, Pivot tables and cross tabulation 67 Time Series 
-   Data Analysis: Date and Time Data Types and Tools, Time series Basics, date Ranges, Frequencies 
-   and Shifting, Time Zone Handling, Periods and Periods Arithmetic, Resampling and Frequency 
-   conversion, Moving Window Functions.
+-  Fundamentals of distributed computing: Characteristics of Distributed Systems: Issues, Goals,
+and Types of distributed systems, Distributed System Models
+Introduction to Artificial Intelligence and Data Science in distributed computing:
+Distributing computational tasks, handling large volumes of data, and leveraging parallel processing
+capabilities, issues related to data storage and retrieval, data consistency, communication overhead,
+synchronization, and fault tolerance.
+Use cases and applications of integrating AI and data science in distributed systems:
+Predictive Maintenance, Fraud Detection, Intelligent Transportation Systems, Supply Chain Optimization,
+Energy Management, Healthcare and Medical Diagnostics, Customer Behavior Analysis and Natural
+Language Processing (NLP)
 
--  Reconstruction, Visualization and Analysis of Medical Images 
-   Introduction: - PET Images, Ultrasound Images, Magnetic Resonance Images, Conclusion and Discussion,
-   Case Study: ER/Studio, Erwin data modeler, DbSchema Pro, Archi, SQL Database Modeler, LucidChart, 
-   Pgmodeler
+- Overview of Distributed Computing Frameworks and Technologies
+Parallel Computing, Distributed Computing Models, Message Passing, Distributed File Systems:
+Hadoop Distributed File System (HDFS) and Google File System (GFS), Cluster Computing:
+(AWS), Microsoft Azure, and Google Cloud Platform (GCP), Message Brokers and Stream
+Processing, Edge Computing
+Data Replication and Consistency Model: Eager Replication, Lazy Replication, Quorum-Based
+Replication, Consensus-Based Replication, Selective Replication, Strong Consistency, Eventual
+Consistency, Read-your-writes Consistency, Consistent Prefix Consistency, Causal Consistency
+Distributed data indexing and retrieval techniques: Distributed Hash Tables (DHTs), Distributed
+Inverted Indexing, Range-based Partitioning, Content-based Indexing, Peer-to-Peer (P2P) Indexing,
+Hybrid Approaches
 
+- Distributed Computing Algorithms: Communication and coordination in distributed systems
+Distributed consensus algorithms (Other consensus algorithms ● Viewstamped Replication ● RAFT
+● ZAB ● Mencius ● Many variants of Paxos (Fast Paxos, Egalitarian Paxos etc)
+Fault tolerance and recovery in distributed systems,
+Load balancing and resource allocation strategies: Weighted Round Robin, Least Connection,
+Randomized Load Balancing, Dynamic Load Balancing, Centralized Load Balancing, Distributed
+Load Balancing, Predictive Load Balancing
+Applying AI techniques to optimize distributed computing algorithms: Machine Learning for
+Resource Allocation, Reinforcement Learning for Dynamic Load Balancing, Genetic Algorithms for
+Task Scheduling, Swarm Intelligence for Distributed Optimization
 
+- Introduction to distributed machine learning algorithms: Types of Distributed Machine
+Learning: Data Parallelism and Model Parallelism, Distributed Gradient Descent, Federated
+Learning, All-Reduce, Hogwild, Elastic Averaging SGD
+Software to implement Distributed ML: Spark, GraphLab, Google TensorFlow, Parallel ML
+System (Formerly Petuum), Systems and Architectures for Distributed Machine Learning
+Integration of AI algorithms in distributed systems: Intelligent Resource Management, Anomaly
+Detection and Fault Tolerance, Predictive Analytics, Intelligent Task Offloading
+
+- Big data processing frameworks in distributed computing: Hadoop, Apache Spark, Apache
+Storm, Samza, Flink
+Parallel and distributed data processing techniques: Single Instruction Single Data (SISD),
+Multiple Instruction Single Data (MISD), Single Instruction Multiple Data (SIMD), Multiple
+Instruction Multiple Data (MIMD), Single program multiple data (SPMD), Massively parallel
+processing (MPP)
+Scalable data ingestion: types of data ingestion, Benefits, challenges, tools, transformation in
+distributed systems
+Real-time analytics and Streaming analytics: types of real time analytics, types of streaming
+analytics, Comparison of real time analytics and streaming analytics, Applying AI and data science
+for large-scale data processing and analytics.
+
+- Security Challenges in Distributed Systems, Insider Threats, Encryption and Secure
+Communication: TLS/SSL, PKI, VPN, AMQP, Privacy Preservation Techniques: Differential
+Privacy, Homomorphic Encryption, Secure Multi-Party Computation (SMPC), Federated Learning,
+Anonymization and Pseudonymization, Access Control and Data Minimization, AI-based Intrusion
+Detection and Threat Mitigation Techniques: Anomaly Detection, Behavior-based Detection, Threat
+Intelligence and Analysis, Real-time Response and Mitigation, Adaptive Security, User and Entity
+Behavior Analytics (UEBA), Threat Hunting and Visualization.
 
       
 
@@ -145,25 +173,31 @@ diagnostics, reasons to choose and cautions.
 Association Rules- Overview, a-priori algorithm, evaluation of candidate rules, case studytransactions in grocery store, validation and testing, diagnostics. 
 Regression- linear, logistics, reasons to choose and cautions, additional regression models.
 
-- IIoT Architecture :-  Overview of IIoT Components sensors , modem , gateway , Routers , Cloud Brokers servers and its integration , WSN Network design for IoT , Business Model and Reference Architecture , IIoT Sensing , Processing , Communication , Networking .
-  
-  
-- Cloud and Data Analytics for IIoT :- IIoT Cloud Platforms , Predix , PTC Thing Worcx , Microsoft Azure cloud services , Business Models : SaaS , PaaS , IaaS .Role of Analytics in IIoT and Data Visualization Techniques .
-- DIGITAL IIoT TWIN :- Introduction ,  Need , Elements , Process Design and Information Requirements .
+- Introduction to R: R graphical User Interfaces, Data import and Export, Dirty Data, Data Analysis,
+Linear regression with R, clustering with R hypothesis testing, Data cleaning and validation tools:
+MapReduce
+Data Analytics Lifecycle: Discovery, Data Preparation, Model Planning, Model Building,
+communicate results, Operationalize, Building a Predictive model.
 
+- Introduction of Exploratory Data Analytics (EDA) -Definition, Motivation, Steps in data
+exploration, data types.
+Techniques to Improve Classification Accuracy: Introducing Ensemble Methods, Bagging,
+Boosting and AdaBoost, Random Forest.
+Model Evaluation and Selection - Confusion Matrix, Dataset Partitioning Methods-Holdout
+Method and Random Subsampling, Cross Validation.
 
-- IIoT Security Challenges and Solutions :- Introduction , Importance of Security for Industrial IoT , Conventional relationship with IIoT , Vulnerabilities , Security Requirements , Threat Analysis , accesss control , Non-repudiation and availability
-- Security model for IoT, Trust–Trust and Trust Models for the IoT, IoT security tomography and 
-layered attacker model, Network security techniques Management aspects of cyber security
+- Introduction to Data Visualization: Objective and challenges to Big data visualization,
+Conventional data visualization tools, techniques for visual data representation, types of data
+visualization, Tools used in data visualization, Open – source data visualization tools, Analytical
+techniques used in Big data visualization, Data Visualization using Tableau
+Introduction to: Candela, D3.js, Google Chart API
 
-
-- Applications: - Smart Robotics, Smart Metering, Smart Irrigation, Smart Manufacturing (Lean 
-manufacturing). Use Cases: - Healthcare, Smart Office, Smart Logistics, IOT Innovations in Retail, Cyber 
-Manufacturing Systems.
-- Industry 4.0: - Introduction, Definition, Why Industry 4.0 and Why Now?
-Characteristics, Design Principles, Advantages and applications of Industry 4.0, Introduction to Industry 5.0 (Society 5.0)
-- Case Study :- Building Hybrid Edge Cloud IIoT Platform 
-
+- Big Data Analytics Applications: Retail Analytics, Financial Data Analytics, Healthcare Analytics,
+Supply chain management
+Types of Big Data Analytics tools: Data Collection Tools-Semantria tool, AS Sentiment Analysis
+tool, Data Storage tools and frameworks: Apache HBase, CouchDB, Data filtering and extraction
+tool: Scraper, Mozenda,
+Comparison of Various Tools
 
 #  417532B -  Elective 6 - Business Intelligence 
 
