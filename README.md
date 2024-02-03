@@ -66,43 +66,29 @@ Fuzzy Inferencing: neuro inferencing Fuzzification, Defuzzification
 Fuzzy logic Controllers: Fuzzy logic Controllers, Fuzzy logic Controller Types 
 
 
-- Introduction: Need of Classification, Types of Classification (Binary and Multiclass), 
-  Binary-vs-Multiclass Classification, Balanced and Imbalanced Classification Problems. 
-  Binary Classification: Linear Classification model, Performance Evaluation- Confusion Matrix, 
-  Accuracy, Precision, Recall, F measures. 
-  Multiclass Classification: One-vs-One and One-vs-All classification techniques, Performance 
-  Evaluation- Confusion Matrix, Per Class Precision, Per Class Recall
-  Classification Algorithms: K Nearest Neighbor, Linear Support Vector Machines (SVM) –
-  Introduction, Soft Margin SVM, Kernel functions– Radial Basis Kernel, Gaussian, Polynomial, 
-  Sigmoid.
+- Introduction, Evolutionary Computing, Terminologies of Evolutionary Computing, Genetic
+Operators, Evolutionary Algorithms: - Genetic Algorithm, Evolution Strategies, Evolutionary
+Programming, Genetic Programming, Performance Measures of EA, Evolutionary Computation
+versus Classical Optimization.
+Advanced Topics: Constraint Handling, Multi-objective Optimization, Dynamic Environments
+Swarm Intelligence: Ant Colony Optimization
 
-- Introduction: What is clustering, Need of Clustering, Types of Clustering
-  Hierarchical clustering algorithms /connectivity-based clustering): Agglomerative Hierarchical 
-  Clustering (AHC) algorithm, Divisive Hierarchical Clustering (DHC) algorithm.
-  Centroid-based clustering algorithms / Partitioning clustering algorithms: K-Means clustering 
-  algorithm, Advantages and disadvantages of K-Means clustering algorithm, Elbow method, The 
-  Silhouette method, K-Medoids, K-Prototype.
-  Density-based clustering algorithms: DBSCAN algorithm, how it works, Advantages and 
-  disadvantages of DBSCAN.
-  Distribution-based clustering algorithms: Gaussian mixture model.
-  Application of Clustering Technique: Market Segmentation, Statistical data analysis, Social 
-  network analysis, Image segmentation, Anomaly detection
+- Introduction to Basic Terminologies in Genetic Algorithm: Individuals, Population, Search
+space, Genes, Fitness function, Chromosome, Trait, Allele, Genotype and Phenotype.
+GA Requirements and representation- Binary Representations, Floating-Point Representations
+Operators in Genetic Algorithm: Initialization, Selection, Crossover (Recombination), Mutation;
+fitness score, Stopping Condition, reproduction for GA Flow, Constraints in Genetic Algorithms.
+Genetic Algorithm Variants: Canonical Genetic Algorithm (Holland Classifier System), Messy
+Genetic Algorithms, Applications, and benefits of Genetic Algorithms.
 
-- Ensemble Learning: Introduction to Ensemble Learning, Need of Ensemble Learning, 
-  Homogeneous and Heterogeneous ensemble methods, Advantages and Limitations of Ensemble 
-  methods, Applications of Ensemble Learning.
-  Basic Ensemble Learning Techniques: Voting Ensemble, Types of Voting: Max Voting, 
-  Averaging, Weighted Average. 
-  Advanced Ensemble Learning Techniques: Bagging: Bootstrapping, Aggregation. Boosting: Adaptive Boosting (AdaBoost), Gradient Boosting, XGBoost .
-  Stacking: Variance Reduction, Blending, Random Forest Ensemble, Advantages of Random Forest.
+- Introduction, Word embedding Techniques-Bag of Words, TF-IDF,Word2Vec, Glove, Neural word
+embedding, Neural Machine Translation, Seq2Seq and Neural Machine Translation, translation
+Metrics (BLEU Score & BERT Score) , Traditional Versus Neural Metrics for Machine Translation
+Evaluation, Neural Style Transfer, Pertained NLP BERT Model and its application
 
-- Reinforcement learning: What is Reinforcement Learning? Need for Reinforcement Learning, 
-  Supervised vs Unsupervised vs Reinforcement Learning, Types of Reinforcement, Elements of 
-  Reinforcement Learning, Real time applications of Reinforcement learning.
-  Markov’s Decision Process: Markov property, Markov chain/process, Markov reward process 
-  (MRP), Markov decision process (MDP), Return, Policy, Value functions, Bellman equation
-  Q Learning: Introduction of Q-Learning, Important terms in Q learning, Q table, Q functions, Q 
-  learning algorithm.
+- Natural Immune System, Artificial Immune Models, Artificial Immune System Algorithm, Classical
+View Models, Clonal Selection Theory Model, Network Theory Model, Danger Theory Model,
+Dendritic cell Model, Applications of AIS models
   
 #  417522 - Distributed Computing 
 -  Basic probability: Discrete and continuous random variables, independence, covariance, central limit theorem, 
